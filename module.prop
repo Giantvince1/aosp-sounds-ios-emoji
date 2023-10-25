@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.4
-versionCode=16
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=aosp-sounds-ios-emoji
+name=AOSP Sounds and iOS Emoji
+version=v1.0
+versionCode=1
+author=Giantvince1
+description=My collection of quick file replacements. Replaces stock sounds with new and old AOSP sounds, and replaces the color emoji set with Apple's color emoji TTF file.
+updateJson=https://raw.githubusercontent.com/Giantvince1/aosp-sounds-ios-emoji/update.json
