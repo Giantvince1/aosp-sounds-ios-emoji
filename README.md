@@ -17,7 +17,7 @@ This module is simply here to provide a much closer to AOSP set of sounds for yo
 ### Disclaimer
 This module is NOT compatible with Font Changer! I included the font only because some OEM-modded skins of Android break how Font Changer works.
 These changes can cause fonts to render improperly, especially when it comes to light, heavy, condensed, or italics versions of the default system font.
-The easiest way to work around the issue was simply for me to include the emoji set, and have it overlay the stock emoji file embedded in /product and /vendor.
+The easiest way to work around the issue was simply for me to include the emoji set, and have it overlay the stock emoji file embedded in /product and /system.
 If you decide to replace system fonts with this module, please make sure that you have the fonts PROPERLY named for your device, ESPECIALLY if you're still on its stock ROM!
 I am not liable for fonts not working if you have Font Changer installed alongside this mod, are not on an AOSP-like ROM, or have added and/or replaced fonts on your own!
 
