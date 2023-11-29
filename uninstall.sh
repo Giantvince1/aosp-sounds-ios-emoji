@@ -1,3 +1,9 @@
+if [ -f /data/fonts ]
+then
+  chattr -i /data/fonts
+  chmod -t /data
+  rm -rf /data/fonts
+fi
 # Don't modify anything after this
 if [ -f $INFO ]; then
   while read LINE; do
