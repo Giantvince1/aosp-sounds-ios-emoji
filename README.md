@@ -22,7 +22,7 @@ If you decide to replace system fonts with this module, please make sure that yo
 I am not liable for fonts not working if you have Font Changer installed alongside this mod, are not on an AOSP-like ROM, or have added and/or replaced fonts on your own!
 
 ### Usage
-Simply download the install.zip file in this repository, and install it like any other Magisk module. Let it handle the rest.
+Simply clone this repository, unzip the main folder, then re-zip it from inside the repo folder, and install it like any other Magisk module. Let it handle the rest.
 To hear the audio samples it uses, just download the repository and play the OGG files in your favorite audio player.
 To see the emoji font it provides, you may have to find something that can render color emoji TTF files via the Internet. Windows' font viewer doesn't play nicely with them.
 
